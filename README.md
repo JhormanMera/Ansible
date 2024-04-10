@@ -30,7 +30,7 @@ Para correr esta aplicación, debes seguir los siguientes pasos:
 
 Debe verse así: 
 
-![pods](assets/internet_rules.png)
+![pods](assets/Internet_Rules.png)
 
 * Haciendo uso del comando `ansible-playbook -i inventory/hosts.ini playbooks/install_docker.yml` instalamos las dependencias y demás herramientas necesarias para nuestra solicitud
 
