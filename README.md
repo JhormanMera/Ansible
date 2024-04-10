@@ -22,7 +22,7 @@ Para correr esta aplicación, debes seguir los siguientes pasos:
 
 * Es necesario asegurarse que el archivo de [configuración de Ansible](ansible.cfg) incluye la línea `host_key_checking = False` 
 
-* Crear una regla de seguridad de entrada en la máquina virtual para permitir que la conexión a la páina del juego
+* Crear una regla de seguridad de entrada en la máquina virtual para permitir que la conexión a la página del juego
 
     * Es necesario hacer un reenvio de puertos al perto previamente escogido por nosotros mismos y que contiene la app funcionando
 
